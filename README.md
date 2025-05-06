@@ -2,8 +2,8 @@
 
 A sleek, animated, and responsive **React ToDo App** built to level up my React skills. Crafted with love 💙 on **April 28** as part of my Week 1 React learning journey. This project is not just a task tracker – it’s a blend of functionality, aesthetic UI, and modern frontend techniques.
 
-📌 **Live Demo (Coming Soon)**
-📂 [Source Code](https://github.com/Shahid9370/Shahid9370-React-ToDo)
+📌 **Live Demo**
+📂 [Click Me](https://shahid-todo.netlify.app/)
 
 ---
 
