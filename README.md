@@ -1,6 +1,6 @@
-# 🚀 Shahid9370-React-ToDo
+# 🚀 Shahid9370-React-ToDo -No Login 
 
-A sleek, animated, and responsive **React ToDo App** built to level up my React skills. Crafted with love 💙 on **April 28** as part of my Week 1 React learning journey. This project is not just a task tracker – it’s a blend of functionality, aesthetic UI, and modern frontend techniques.
+A sleek, animated, and responsive **React ToDo App** built to level up my React skills. Crafted with love 💙 on **April-May** as part of React learning journey. This project is not just a task tracker – it’s a blend of functionality, aesthetic UI, and modern frontend techniques.
 
 📌 **Live Demo**
 📂 [Click Me](https://shahid-todo.netlify.app/)
