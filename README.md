@@ -7,7 +7,7 @@ A sleek, animated, and responsive **React ToDo App** built to level up my React 
 
 ---
 
-## 📽️ Demo Preview
+## 📽️Demo Preview
 
 1![IMG1](https://github.com/user-attachments/assets/9758589a-0d84-42c9-ae5f-944d697c10ce)
 
@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/d33efb8a-888c-400b-9e6c-b5d0c0c942a9
 
 ---
 
-## ✨ Features
+## ✨Features
 
 * ✅ **Add Tasks** with input validation
 * 📝 **Mark Complete** using custom checkboxes
